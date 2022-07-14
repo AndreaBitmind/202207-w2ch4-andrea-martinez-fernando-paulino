@@ -8,7 +8,7 @@ class SkylabArray {
   }
 }
 
-const arraySky = new SkylabArray(5, 6, "io", 9, 6, 7);
+const arraySky = new SkylabArray(0);
 console.log(arraySky);
 
-// module.exports = SkylabArray;
+module.exports = SkylabArray;
