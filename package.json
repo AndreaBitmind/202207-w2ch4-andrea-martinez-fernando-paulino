@@ -1,23 +1,14 @@
 {
   "name": "challenge_4",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "prepare": "husky install"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/AndreaBitmind/202207-w2ch4-andrea-martinez.git"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/AndreaBitmind/202207-w2ch4-andrea-martinez/issues"
-  },
-  "homepage": "https://github.com/AndreaBitmind/202207-w2ch4-andrea-martinez#readme",
   "devDependencies": {
     "@babel/plugin-transform-modules-commonjs": "^7.18.6",
     "@types/jest": "^28.1.5",
@@ -36,5 +27,14 @@
         ]
       }
     }
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndreaBitmind/202207-w2ch4-andrea-martinez-fernando-paulino.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AndreaBitmind/202207-w2ch4-andrea-martinez-fernando-paulino/issues"
+  },
+  "homepage": "https://github.com/AndreaBitmind/202207-w2ch4-andrea-martinez-fernando-paulino#readme",
+  "description": ""
 }
